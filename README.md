@@ -116,7 +116,7 @@ Digital-Nurture-PythonFSE-DeepSkilling/
 ├── README.md                           # Root Workspace README
 ├── Module 3 Database Integration/      # Module 3: Database Integration Solutions
 │   ├── README.md                       # Dedicated Database Integration README
-│   └── Vishal S/
+│   └── Sanjit P/
 │       ├── hands_on_1/                 # Relational Schema Design & DDL
 │       ├── hands_on_2/                 # DML & Basic SQL
 │       ├── hands_on_3/                 # Advanced SQL (Subqueries, Views, Triggers)
@@ -126,7 +126,7 @@ Digital-Nurture-PythonFSE-DeepSkilling/
 │       └── hands_on_7/                 # Alembic Schema Migrations
 └── Python Backend Framework Solutions/ # Python Backend Frameworks Solutions
     ├── README.md                       # Main Backend README
-    └── Vishal S/
+    └── Sanjit P/
         ├── Python Backend Hands-on 01/ # Web Framework Foundations
         ├── Python Backend Hands-on 02/ # Django Models & Admin
         ├── Python Backend Hands-on 03/ # Django REST APIs
