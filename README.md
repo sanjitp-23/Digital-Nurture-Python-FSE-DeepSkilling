@@ -114,32 +114,35 @@ Upon completion of this program, learners gain practical experience in:
 ```text
 Digital-Nurture-Python-FSE-DeepSkilling/
 ├── README.md                           # Root Workspace README
-├── Module 2 - FrontendDev Solutions/   # Module 2: Frontend Development Solutions
+├── Module2_FrontendDev/                # Module 2: Frontend Development Solutions
 │   ├── README.md                       # Dedicated Frontend README
-│   ├── handson_01/                     # HTML Table & Forms
-│   ├── handson_02/                     # CSS Layouts, Grid & Flexbox
-│   ├── ...                             # handson_03 to handson_08
-│   ├── handson_09/                     # Fetch API & JSON Content Rendering
-│   └── handson_10/                     # Advanced React Portal Pattern
-├── Module_3_DatabaseIntegration_Solutions/ # Module 3: Database Integration Solutions
+│   └── Sanjit P/                       # Student Folder
+│       ├── handson_01/                 # HTML Table & Forms
+│       ├── handson_02/                 # CSS Layouts, Grid & Flexbox
+│       ├── ...                         # handson_03 to handson_08
+│       ├── handson_09/                 # Fetch API & JSON Content Rendering
+│       └── handson_10/                 # Advanced React Portal Pattern
+├── Module3_DatabaseIntegration/        # Module 3: Database Integration Solutions
 │   ├── README.md                       # Dedicated Database Integration README
-│   ├── hands_on_1/                     # Relational Schema Design & DDL
-│   ├── hands_on_2/                     # DML & Basic SQL
-│   ├── ...                             # hands_on_3 to hands_on_6
-│   └── hands_on_7/                     # Alembic Schema Migrations
-├── Python Backend Framework Solutions/ # Python Backend Frameworks Solutions
+│   └── Sanjit P/                       # Student Folder
+│       ├── hands_on_1/                 # Relational Schema Design & DDL
+│       ├── hands_on_2/                 # DML & Basic SQL
+│       ├── ...                         # hands_on_3 to hands_on_6
+│       └── hands_on_7/                 # Alembic Schema Migrations
+├── PythonBackendFrameworks/            # Python Backend Frameworks Solutions
 │   ├── README.md                       # Dedicated Backend README
-│   └── Sanjit P/
+│   └── Sanjit P/                       # Student Folder
 │       ├── Hands_on_01/                # Django Foundations
 │       ├── Hands_on_02/                # Django REST APIs
 │       ├── ...                         # Hands_on_03 to Hands_on_09
 │       └── Hands_on_10/                # Microservices Architecture
 └── SeleniumBasics/                     # Selenium & QA Automation Solutions
     ├── README.md                       # Dedicated Selenium & QA Testing README
-    ├── handson_01/                     # Manual QA Concepts
-    ├── handson_02/                     # SDLC V-Model Analysis
-    ├── ...                             # handson_03 to handson_06
-    └── handson_07/                     # Page Object Model (POM) Design Pattern
+    └── Sanjit P/                       # Student Folder
+        ├── handson_01/                 # Manual QA Concepts
+        ├── handson_02/                 # SDLC V-Model Analysis
+        ├── ...                         # handson_03 to handson_06
+        └── handson_07/                 # Page Object Model (POM) Design Pattern
 ```
 
 ---
